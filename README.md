@@ -1,2 +1,3 @@
 # Portfolio
 This is my portfolio GitHub repository in which I push my all codes in it.
+Also you can checkout my new projects on my linkedin account - https://www.linkedin.com/in/yogesh-jha-00149b256/
