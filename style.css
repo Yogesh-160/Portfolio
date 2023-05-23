@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family:  'cursive';
+    font-family: 'Roboto Condensed', sans-serif;
     box-sizing: border-box;
 }
 html{
@@ -423,10 +423,15 @@ nav .fa{
     margin-top:-40px;
     display:block;
 }
+.style {
+    display: none;
+  }
+  
 @media only screen and (max-width: 600px){
-#style{
+.style{
+    font-size: 13px;
     color: #61b752;
     text-align: center;
-
+    display: block;
 }
 }
