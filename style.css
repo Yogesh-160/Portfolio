@@ -354,6 +354,7 @@ nav .fa{
     display:none;
 }
 @media only screen and (max-width: 600px){
+    
     #header{
         background-image: url(./Images/6..jpg);
         
@@ -413,10 +414,19 @@ nav .fa{
         .copyright{
             font-size: 14px;
         }
+        
 }
+
 
 #message{
     color:#61b752;
     margin-top:-40px;
     display:block;
+}
+@media only screen and (max-width: 600px){
+#style{
+    color: #61b752;
+    text-align: center;
+
+}
 }
